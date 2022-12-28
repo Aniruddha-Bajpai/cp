@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSES_ProblemSet/CSES_ProblemSet.iml" filepath="$PROJECT_DIR$/CSES_ProblemSet/CSES_ProblemSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Codeforces.iml" filepath="$PROJECT_DIR$/Codeforces/Codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cp.iml" filepath="$PROJECT_DIR$/.idea/cp.iml" />
+    </modules>
+  </component>
+</project>
